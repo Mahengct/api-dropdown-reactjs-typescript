@@ -59,7 +59,7 @@ function App() {
 
   headers.append('Access-Control-Allow-Origin', '*');
   headers.append('Access-Control-Allow-Credentials', 'true');
-  headers.append('Authorization', 'Basic ay1lZDdjZDUxYS05ZTgwLTRlNGYtYTE1MC1kNGVmZTljYjhkNjI6cy0wNTJkNzU4YS05ZWU2LTRjNDQtYmU5Ny1kNGQzZGQxNDY3NDQ=');
+  headers.append('Authorization', 'Basic ay1lZDdjZDUxYS05NDY3NDQ=');
 
 
   
